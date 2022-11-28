@@ -3,8 +3,6 @@
  */
 package chapter;
 
-import chapter.Money.Dollar;
-
 public class App {
     public String getGreeting() {
         return "Hello World!";
